@@ -1,0 +1,11 @@
+{
+  "cleanUrls": true,
+  "rewrites": [
+    { "source": "/rashedali.framer.wiki/(.*)", "destination": "/$1" },
+    { "source": "/leave-your-mark-2", "destination": "/leave-your-mark-2.html" },
+    { "source": "/about", "destination": "/about.html" },
+    { "source": "/anywhere-equipment", "destination": "/anywhere-equipment.html" },
+    { "source": "/storytag", "destination": "/storytag.html" },
+    { "source": "/unlimited", "destination": "/unlimited.html" }
+  ]
+}
